@@ -1,9 +1,12 @@
 # big-giant-butts
 A super secret project that nobody is working on. *eye shifts*
 
+#Current Version:
+	0.1.0
+
 -----MODS SUGGESTIONS-----
-Some terrain gen mod?
-Iguana tweaks?
+Some terrain gen mod? **Biomes O' Plenty, Extra Biomes, or Alternate Terrain Generation**
+Iguana tweaks? **Just for tool progression?**
 Agricraft?
 Witchery? - ugh
 Forestry? BEEEEEEES
@@ -21,45 +24,8 @@ IC2 Nuclear Control
 Magic Bees
 Railcraft
 
-
-
-
-
------MODS ADDED-----
-Tinkers Construct
-Tinkers Gregworks - not added yet
-Thermal Expansion? - Slow ass machines?
-Iron Chests
-AE2? Late game?
-Pam's HarvestCraft?
-Cooking for Blockheads (if above is added)
-Botania
-Blood Magic
-Thaumcraft + Baubles + Addons
-Chisel
-Morpheus
-WAILA (and some addons maybe?)
-OpenComputers + Addons
-Buildcraft? running with EU power maybe?
-Power converters ( 1 way EU to RF)
-CustomItems
-Apple Core
-Fast leaf decay
-More chisels
-Mouse Tweaks + Inventory Tweaks
-Simple Achievements
-Better Achievements
-Sfm
-Hardcore wither
-Emotes Keepo
-Help Fixer
-Cosmetic Armor?
-Better title screen
-Default options
-Streams?
-Stacks on stacks
-Waystones?
-
-
+*CHECK CHANGELOG + MODLIST FOR ADDED MODS*
 -----CONFIG SUGGESTIONS-----
 1) Disable all ore gen but gregs
+2) Make a thermal expansion machines slow, premote ic2 machines
+3) Make Applied Energistics end game
