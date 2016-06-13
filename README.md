@@ -2,8 +2,23 @@
 A super secret project that nobody is working on. *eye shifts*
 
 -----MODS SUGGESTIONS-----
+13) Some terrain gen mod?
+14) Iguana tweaks?
+18) Agricraft?
+21) Draconic evo?
+23) Witchery? - ugh
+24) Forestry? BEEEEEEES
+27) RFTools - Dimension resources disabled?
+30) Hunger overhaul?
+41) 
+
+
+
+
+
+-----MODS ADDED-----
 1) Tinkers Construct
-2) Tinkers Gregworks
+2) Tinkers Gregworks - not added yet
 3) Thermal Expansion? - Slow ass machines?
 4) Iron Chests
 5) AE2? Late game?
@@ -15,24 +30,17 @@ A super secret project that nobody is working on. *eye shifts*
 10) Chisel
 11) Morpheus
 12) WAILA (and some addons maybe?)
-13) Some terrain gen mod?
-14) Iguana tweaks?
 15) OpenComputers + Addons
 16) Buildcraft? running with EU power maybe?
 17) Power converters ( 1 way EU to RF)
-18) Agricraft?
 19) CustomItems
 20) Apple Core
-21) Draconic evo?
 22) Fast leaf decay
-23) Witchery? - ugh
-24) Forestry? BEEEEEEES
+40) More chisels
 25) Mouse Tweaks + Inventory Tweaks
-26) Sfm
-27) RFTools - Dimension resources disabled?
 28) Simple Achievements
 29) Better Achievements
-30) Hunger overhaul?
+26) Sfm
 31) Hardcore wither
 32) Emotes Keepo
 33) Help Fixer
@@ -42,13 +50,6 @@ A super secret project that nobody is working on. *eye shifts*
 37) Streams?
 38) Stacks on stacks
 39) Waystones?
-40) More chisels
-41) 
-
-
-
-
-
 
 
 -----CONFIG SUGGESTIONS-----
