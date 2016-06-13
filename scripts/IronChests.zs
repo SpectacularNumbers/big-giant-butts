@@ -1,0 +1,36 @@
+//#MARKER REMOVE
+recipes.remove(<IronChest:BlockIronChest:2>);
+recipes.remove(<IronChest:BlockIronChest:5>);
+recipes.remove(<IronChest:BlockIronChest:7>);
+recipes.remove(<IronChest:BlockIronChest:6>);
+recipes.remove(<IronChest:diamondCrystalUpgrade>);
+recipes.remove(<IronChest:diamondObsidianUpgrade>);
+recipes.remove(<IronChest:silverGoldUpgrade>);
+recipes.remove(<IronChest:BlockIronChest:4>);
+recipes.remove(<IronChest:copperSilverUpgrade>);
+recipes.remove(<IronChest:woodCopperUpgrade>);
+recipes.remove(<IronChest:woodCopperUpgrade>);
+recipes.remove(<IronChest:BlockIronChest:3>);
+recipes.remove(<IronChest:goldDiamondUpgrade>);
+recipes.remove(<IronChest:BlockIronChest:2>);
+recipes.remove(<IronChest:ironGoldUpgrade>);
+recipes.remove(<IronChest:BlockIronChest:1>);
+recipes.remove(<IronChest:woodIronUpgrade>);
+recipes.remove(<IronChest:BlockIronChest>);
+//#MARKER ADD SHAPED
+recipes.addShaped(<IronChest:BlockIronChest:7>, [[<ore:dirt>, <ore:dirt>, <ore:dirt>], [<ore:dirt>, <ore:chestWood>, <ore:dirt>], [<ore:dirt>, <ore:dirt>, <ore:dirt>]]);
+recipes.addShaped(<IronChest:diamondCrystalUpgrade>, [[<ore:plateDiamond>, <ore:plateDiamond>, <ore:plateDiamond>], [<ore:plateDiamond>, <IronChest:goldDiamondUpgrade>, <ore:plateDiamond>], [<ore:plateDiamond>, <ore:plateDiamond>, <ore:plateDiamond>]]);
+recipes.addShaped(<IronChest:BlockIronChest:5>, [[<ore:plateGlass>, <ore:plateGlass>, <ore:plateGlass>], [<ore:plateGlass>, <IronChest:BlockIronChest:2>, <ore:plateGlass>], [<ore:plateGlass>, <ore:plateGlass>, <ore:plateGlass>]]);
+recipes.addShaped(<IronChest:BlockIronChest:6>, [[<ore:plateObsidian>, <ore:plateObsidian>, <ore:plateObsidian>], [<ore:plateObsidian>, <IronChest:BlockIronChest:2>, <ore:plateObsidian>], [<ore:plateObsidian>, <ore:plateObsidian>, <ore:plateObsidian>]]);
+recipes.addShaped(<IronChest:diamondObsidianUpgrade>, [[<ore:plateObsidian>, <ore:plateObsidian>, <ore:plateObsidian>], [<ore:plateObsidian>, <IronChest:goldDiamondUpgrade>, <ore:plateObsidian>], [<ore:plateObsidian>, <ore:plateObsidian>, <ore:plateObsidian>]]);
+recipes.addShaped(<IronChest:silverGoldUpgrade>, [[<ore:plateGold>, <ore:plateGold>, <ore:plateGold>], [<ore:plateGold>, <ore:plateSilver>, <ore:plateGold>], [<ore:plateGold>, <ore:plateGold>, <ore:plateGold>]]);
+recipes.addShaped(<IronChest:BlockIronChest:4>, [[<ore:plateSilver>, <ore:plateSilver>, <ore:plateSilver>], [<ore:plateSilver>, <IronChest:BlockIronChest:3>, <ore:plateSilver>], [<ore:plateSilver>, <ore:plateSilver>, <ore:plateSilver>]]);
+recipes.addShaped(<IronChest:copperSilverUpgrade>, [[<ore:plateSilver>, <ore:plateSilver>, <ore:plateSilver>], [<ore:plateSilver>, <ore:plateCopper>, <ore:plateSilver>], [<ore:plateSilver>, <ore:plateSilver>, <ore:plateSilver>]]);
+recipes.addShaped(<IronChest:woodCopperUpgrade>, [[<ore:plateCopper>, <ore:plateCopper>, <ore:plateCopper>], [<ore:plateCopper>, <ore:plankWood>, <ore:plateCopper>], [<ore:plateCopper>, <ore:plateCopper>, <ore:plateCopper>]]);
+recipes.addShaped(<IronChest:BlockIronChest:3>, [[<ore:plateCopper>, <ore:plateCopper>, <ore:plateCopper>], [<ore:plateCopper>, <ore:chestWood>, <ore:plateCopper>], [<ore:plateCopper>, <ore:plateCopper>, <ore:plateCopper>]]);
+recipes.addShaped(<IronChest:goldDiamondUpgrade>, [[<ore:plateDiamond>, <ore:plateDiamond>, <ore:plateDiamond>], [<ore:plateDiamond>, <IronChest:ironGoldUpgrade>, <ore:plateDiamond>], [<ore:plateDiamond>, <ore:plateDiamond>, <ore:plateDiamond>]]);
+recipes.addShaped(<IronChest:BlockIronChest:2>, [[<ore:plateDiamond>, <ore:plateDiamond>, <ore:plateDiamond>], [<ore:plateDiamond>, <IronChest:BlockIronChest:1>, <ore:plateDiamond>], [<ore:plateDiamond>, <ore:plateDiamond>, <ore:plateDiamond>]]);
+recipes.addShaped(<IronChest:ironGoldUpgrade>, [[<ore:plateGold>, <ore:plateGold>, <ore:plateGold>], [<ore:plateGold>, <IronChest:woodIronUpgrade>, <ore:plateGold>], [<ore:plateGold>, <ore:plateGold>, <ore:plateGold>]]);
+recipes.addShaped(<IronChest:BlockIronChest:1>, [[<ore:plateGold>, <ore:plateGold>, <ore:plateGold>], [<ore:plateGold>, <IronChest:BlockIronChest>, <ore:plateGold>], [<ore:plateGold>, <ore:plateGold>, <ore:plateGold>]]);
+recipes.addShaped(<IronChest:woodIronUpgrade>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateIron>, <ore:chestWood>, <ore:plateIron>], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>]]);
+recipes.addShaped(<IronChest:BlockIronChest>, [[<ore:plateIron>, <ore:chestWood>, <ore:plateIron>], [<ore:plateIron>, <ore:chestWood>, <ore:plateIron>], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>]]);
