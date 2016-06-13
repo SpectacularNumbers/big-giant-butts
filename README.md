@@ -26,6 +26,6 @@ Railcraft
 
 *CHECK CHANGELOG + MODLIST FOR ADDED MODS*
 -----CONFIG SUGGESTIONS-----
-1) Disable all ore gen but gregs
+1) Disable all ore gen but gregs - done
 2) Make a thermal expansion machines slow, premote ic2 machines
 3) Make Applied Energistics end game
