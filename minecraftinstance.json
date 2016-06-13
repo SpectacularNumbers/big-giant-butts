@@ -1,0 +1,480 @@
+{
+  "baseModLoader": {
+    "Name": "forge-10.13.4.1614",
+    "Type": 1,
+    "DownloadUrl": "http://modloaders.cursecdn.com/647622546/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10.jar",
+    "Filename": "forge-1.7.10-10.13.4.1614-1.7.10.jar",
+    "InstallMethod": 1,
+    "Latest": true,
+    "Recommended": false,
+    "Approved": false,
+    "LastModified": "1753-01-01T00:00:00Z",
+    "MavenVersionString": "net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10",
+    "VersionJson": "{\r\n  \"id\": \"forge-10.13.4.1614\",\r\n  \"time\": \"2015-12-10T00:05:37-0500\",\r\n  \"releaseTime\": \"1960-01-01T00:00:00-0700\",\r\n  \"type\": \"release\",\r\n  \"minecraftArguments\": \"--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass cpw.mods.fml.common.launcher.FMLTweaker\",\r\n  \"minimumLauncherVersion\": 14,\r\n  \"assets\": \"1.7.10\",\r\n  \"inheritsFrom\": \"1.7.10\",\r\n  \"jar\": \"forge-10.13.4.1614\",\r\n  \"libraries\": [\r\n    {\r\n      \"name\": \"net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10\",\r\n      \"url\": \"http://modloaders.cursecdn.com/647622546/maven/\"\r\n    },\r\n    {\r\n      \"name\": \"net.minecraft:launchwrapper:1.12\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.ow2.asm:asm-all:5.0.3\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe.akka:akka-actor_2.11:2.3.3\",\r\n      \"url\": \"http://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe:config:1.2.1\",\r\n      \"url\": \"http://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-actors-migration_2.11:1.1.0\",\r\n      \"url\": \"http://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-compiler:2.11.1\",\r\n      \"url\": \"http://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2\",\r\n      \"url\": \"http://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2\",\r\n      \"url\": \"http://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-library:2.11.1\",\r\n      \"url\": \"http://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-parser-combinators_2.11:1.0.1\",\r\n      \"url\": \"http://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-reflect:2.11.1\",\r\n      \"url\": \"http://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-swing_2.11:1.0.1\",\r\n      \"url\": \"http://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-xml_2.11:1.0.2\",\r\n      \"url\": \"http://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"lzma:lzma:0.0.1\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.jopt-simple:jopt-simple:4.5\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"com.google.guava:guava:17.0\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.apache.commons:commons-lang3:3.3.2\",\r\n      \"serverreq\": true\r\n    }\r\n  ],\r\n  \"mainClass\": \"net.minecraft.launchwrapper.Launch\"\r\n}",
+    "LibrariesInstallLocation": "{0}\\libraries\\net\\minecraftforge\\forge\\1.7.10-10.13.4.1614-1.7.10",
+    "MinecraftVersion": "1.7.10",
+    "AdditionalFilesJson": null
+  },
+  "isUnlocked": true,
+  "javaArgsOverride": null,
+  "javaDirOverride": null,
+  "lastPlayed": "2016-06-13T00:34:45.7921544Z",
+  "manifest": null,
+  "fileDate": "0001-01-01T00:00:00",
+  "installedModpack": null,
+  "projectID": 0,
+  "fileID": 0,
+  "customAuthor": "SpectacularNumbers",
+  "modpackOverrides": null,
+  "isMemoryOverride": false,
+  "allocatedMemory": 4677,
+  "guid": "a5d15dc3-e5af-4528-8faf-8bf15415867d",
+  "gameTypeID": 432,
+  "installPath": "C:\\Users\\Spectacular101\\Desktop\\MC\\Instances\\test\\",
+  "name": "test",
+  "cachedScans": [
+    {
+      "folderName": "industrialcraft-2-2.2.821-experimental.jar",
+      "fingerprint": 1480882833,
+      "fileDateHash": 1784139763,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1480882833
+      ],
+      "status": 1,
+      "timestamp": "2016-06-13T00:32:59.5264305Z",
+      "lastWriteTimeUtc": "2016-06-13T00:32:00.8827754Z",
+      "queryTimestamp": "2016-06-13T00:32:59.6692134Z",
+      "fileCount": 1,
+      "fileSize": 5639128
+    },
+    {
+      "folderName": "CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
+      "fingerprint": 436549511,
+      "fileDateHash": 1784946146,
+      "sectionID": 6,
+      "individualFingerprints": [
+        436549511
+      ],
+      "status": 1,
+      "timestamp": "2016-06-13T00:31:40.1150479Z",
+      "lastWriteTimeUtc": "2016-06-13T00:31:30.4098569Z",
+      "queryTimestamp": "2016-06-13T00:31:40.1844934Z",
+      "fileCount": 1,
+      "fileSize": 145782
+    },
+    {
+      "folderName": "gregtech-5.09.21.jar",
+      "fingerprint": 1054954725,
+      "fileDateHash": 1553869884,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1054954725
+      ],
+      "status": 1,
+      "timestamp": "2016-06-13T00:34:32.8133404Z",
+      "lastWriteTimeUtc": "2016-06-13T00:31:49.5286641Z",
+      "queryTimestamp": "2016-06-13T00:34:33.2989683Z",
+      "fileCount": 1,
+      "fileSize": 9120652
+    },
+    {
+      "folderName": "MineTweaker3-1.7.10-3.0.10B.jar",
+      "fingerprint": 26775110,
+      "fileDateHash": 1343124202,
+      "sectionID": 6,
+      "individualFingerprints": [
+        26775110
+      ],
+      "status": 1,
+      "timestamp": "2016-06-13T00:34:34.3595734Z",
+      "lastWriteTimeUtc": "2016-05-19T13:29:02Z",
+      "queryTimestamp": "2016-06-13T00:34:34.802438Z",
+      "fileCount": 1,
+      "fileSize": 927376
+    },
+    {
+      "folderName": "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+      "fingerprint": 1718343770,
+      "fileDateHash": 3697238137,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1718343770
+      ],
+      "status": 1,
+      "timestamp": "2016-06-13T00:31:40.1160495Z",
+      "lastWriteTimeUtc": "2016-06-13T00:31:40.0995437Z",
+      "queryTimestamp": "2016-06-13T00:31:40.1844934Z",
+      "fileCount": 1,
+      "fileSize": 513136
+    },
+    {
+      "folderName": "GTTweaker-1.7.10-1.2.2.jar",
+      "fingerprint": 532261911,
+      "fileDateHash": 463051117,
+      "sectionID": 6,
+      "individualFingerprints": [
+        532261911
+      ],
+      "status": 1,
+      "timestamp": "2016-06-13T00:34:33.1959295Z",
+      "lastWriteTimeUtc": "2016-06-13T00:31:50.8921604Z",
+      "queryTimestamp": "2016-06-13T00:34:33.2989683Z",
+      "fileCount": 1,
+      "fileSize": 115002
+    },
+    {
+      "folderName": "ModTweaker2-0.9.5.jar",
+      "fingerprint": 2360991561,
+      "fileDateHash": 3916956494,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2360991561
+      ],
+      "status": 1,
+      "timestamp": "2016-06-13T00:34:34.7411518Z",
+      "lastWriteTimeUtc": "2016-06-13T00:34:33.198418Z",
+      "queryTimestamp": "2016-06-13T00:34:34.802438Z",
+      "fileCount": 1,
+      "fileSize": 578158
+    },
+    {
+      "folderName": "NEI",
+      "fingerprint": 100803977,
+      "fileDateHash": 3991528754,
+      "sectionID": 17,
+      "individualFingerprints": [
+        1540447798
+      ],
+      "status": 1,
+      "timestamp": "2016-06-13T00:34:33.2014242Z",
+      "lastWriteTimeUtc": "2016-06-13T00:33:14.2947498Z",
+      "queryTimestamp": "2016-06-13T00:34:33.2989683Z",
+      "fileCount": 1,
+      "fileSize": 0
+    }
+  ],
+  "isValid": true,
+  "lastPreviousMatchUpdate": "2016-06-13T00:13:18.8162823Z",
+  "isEnabled": true,
+  "isPinned": false,
+  "gameVersion": "1.7.10",
+  "preferenceAlternateFile": false,
+  "preferenceAutoInstallUpdates": false,
+  "preferenceQuickDeleteLibraries": true,
+  "preferenceDeleteSavedVariables": true,
+  "preferenceProcessFileCommands": true,
+  "preferenceReleaseType": 2,
+  "syncProfile": {
+    "GameGameInstanceGuid": "00000000-0000-0000-0000-000000000000",
+    "PreferenceEnabled": false,
+    "PreferenceAutoDelete": false,
+    "PreferenceAutoSync": true,
+    "PreferenceBackupSavedVariables": false,
+    "LastSyncDate": "0001-01-01T00:00:00"
+  },
+  "preferenceShowAddOnInfo": true,
+  "installDate": "2016-06-13T00:13:17.0948153Z",
+  "installedAddons": [
+    {
+      "addonID": 222213,
+      "gameInstanceID": "a5d15dc3-e5af-4528-8faf-8bf15415867d",
+      "installedFile": {
+        "Id": 2262089,
+        "FileName": "CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
+        "FileNameOnDisk": "CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
+        "FileDate": "2015-10-12T14:54:43",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2262/89/CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 400476418
+          },
+          {
+            "Foldername": "cccmod.info",
+            "Fingerprint": 943365927
+          },
+          {
+            "Foldername": "codechicken",
+            "Fingerprint": 1569218034
+          },
+          {
+            "Foldername": "dependencies.info",
+            "Fingerprint": 3737248656
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2990017638
+          }
+        ],
+        "PackageFingerprint": 436549511,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-06-13T00:31:30.4768874Z",
+      "dateUpdated": "2015-06-13T00:31:30.4768874Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 222211,
+      "gameInstanceID": "a5d15dc3-e5af-4528-8faf-8bf15415867d",
+      "installedFile": {
+        "Id": 2302312,
+        "FileName": "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+        "FileNameOnDisk": "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+        "FileDate": "2016-05-23T13:42:33",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2302/312/NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 222213,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2839239710
+          },
+          {
+            "Foldername": "codechicken",
+            "Fingerprint": 1742775044
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 3990579131
+          },
+          {
+            "Foldername": "neimod.info",
+            "Fingerprint": 385117542
+          }
+        ],
+        "PackageFingerprint": 1718343770,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-06-13T00:31:40.2284688Z",
+      "dateUpdated": "2015-06-13T00:31:40.2284688Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 242638,
+      "gameInstanceID": "a5d15dc3-e5af-4528-8faf-8bf15415867d",
+      "installedFile": {
+        "Id": 2294744,
+        "FileName": "industrialcraft-2-2.2.821-experimental.jar",
+        "FileNameOnDisk": "industrialcraft-2-2.2.821-experimental.jar",
+        "FileDate": "2016-04-18T04:08:14",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2294/744/industrialcraft-2-2.2.821-experimental.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1582651846
+          },
+          {
+            "Foldername": "ic2",
+            "Fingerprint": 4227790972
+          },
+          {
+            "Foldername": "lib",
+            "Fingerprint": 120832689
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3710042514
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 1552971484
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 3607220516
+          }
+        ],
+        "PackageFingerprint": 1480882833,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-06-13T00:32:01.2166187Z",
+      "dateUpdated": "2015-06-13T00:32:01.2166187Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 220954,
+      "gameInstanceID": "a5d15dc3-e5af-4528-8faf-8bf15415867d",
+      "installedFile": {
+        "Id": 2270009,
+        "FileName": "ModTweaker2 - 0.9.5",
+        "FileNameOnDisk": "ModTweaker2-0.9.5.jar",
+        "FileDate": "2015-12-09T12:06:35",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2270/9/ModTweaker2-0.9.5.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "CoFH_at.cfg",
+            "Fingerprint": 1799451280
+          },
+          {
+            "Foldername": "hee_at.cfg",
+            "Fingerprint": 134808206
+          },
+          {
+            "Foldername": "IMC Todo",
+            "Fingerprint": 2815002107
+          },
+          {
+            "Foldername": "mariculture_at.cfg",
+            "Fingerprint": 3014137181
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1200025230
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "micdoodlecore_at.cfg",
+            "Fingerprint": 329131564
+          },
+          {
+            "Foldername": "modtweaker2",
+            "Fingerprint": 3647136838
+          },
+          {
+            "Foldername": "TConstruct_at.cfg",
+            "Fingerprint": 496826864
+          },
+          {
+            "Foldername": "tfc_at.cfg",
+            "Fingerprint": 747886987
+          }
+        ],
+        "PackageFingerprint": 2360991561,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-06-13T00:34:33.3450404Z",
+      "dateUpdated": "2015-06-13T00:34:33.3450404Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 224029,
+      "gameInstanceID": "a5d15dc3-e5af-4528-8faf-8bf15415867d",
+      "installedFile": {
+        "Id": 2259434,
+        "FileName": "MineTweaker3-1.7.10-3.0.10B.jar",
+        "FileNameOnDisk": "MineTweaker3-1.7.10-3.0.10B.jar",
+        "FileDate": "2015-09-26T07:05:08",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2259/434/MineTweaker3-1.7.10-3.0.10B.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2200397378
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3427727352
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "minetweaker",
+            "Fingerprint": 3925626852
+          },
+          {
+            "Foldername": "stanhebben",
+            "Fingerprint": 3615137791
+          }
+        ],
+        "PackageFingerprint": 26775110,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-06-13T00:34:34.921987Z",
+      "dateUpdated": "2015-06-13T00:34:34.921987Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    }
+  ]
+}
