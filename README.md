@@ -10,7 +10,16 @@ Witchery? - ugh
 Forestry? BEEEEEEES
 RFTools - Dimension resources disabled?
 Hunger overhaul?
-
+Another One Bites The Dust
+advanced solar panels
+ae2stuff
+*POSSIBLE* Advanced Terrain Generation
+Carpenters Blocks
+IC2 Nuclear Control
+*POSSIBLE* Iguana Tinkers Tweaks
+*POSSIBLE* Logistics Pipes
+Magic Bees
+Railcraft
 
 
 
