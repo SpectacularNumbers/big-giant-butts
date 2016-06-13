@@ -65,3 +65,4 @@
 +Added Tinkers' Gregworks 1.0.10
 +Added Walia 1.5.10
 +Added Waystones 1.0.4
++Added Minetweaker Recipe Maker
