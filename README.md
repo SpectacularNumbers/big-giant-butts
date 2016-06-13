@@ -35,7 +35,15 @@ A super secret project that nobody is working on. *eye shifts*
 30) Hunger overhaul?
 31) Hardcore wither
 32) Emotes Keepo
-33) 
+33) Help Fixer
+34) Cosmetic Armor?
+35) Better title screen
+36) Default options
+37) Streams?
+38) Stacks on stacks
+39) Waystones?
+40) More chisels
+41) 
 
 
 
